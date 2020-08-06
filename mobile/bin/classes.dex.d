@@ -1,0 +1,23 @@
+D:\JhonKkk\MyWork\JmonkeyProject\PerformanceTesting\mobile\bin\classes.dex : \
+D:\JhonKkk\MyWork\JmonkeyProject\PerformanceTesting\mobile\bin\classes\com\mycompany\mygame\BuildConfig.class \
+D:\JhonKkk\MyWork\JmonkeyProject\PerformanceTesting\mobile\bin\classes\com\mycompany\mygame\MainActivity$JmeFragment.class \
+D:\JhonKkk\MyWork\JmonkeyProject\PerformanceTesting\mobile\bin\classes\com\mycompany\mygame\MainActivity.class \
+D:\JhonKkk\MyWork\JmonkeyProject\PerformanceTesting\mobile\bin\classes\com\mycompany\mygame\R$attr.class \
+D:\JhonKkk\MyWork\JmonkeyProject\PerformanceTesting\mobile\bin\classes\com\mycompany\mygame\R$drawable.class \
+D:\JhonKkk\MyWork\JmonkeyProject\PerformanceTesting\mobile\bin\classes\com\mycompany\mygame\R$id.class \
+D:\JhonKkk\MyWork\JmonkeyProject\PerformanceTesting\mobile\bin\classes\com\mycompany\mygame\R$layout.class \
+D:\JhonKkk\MyWork\JmonkeyProject\PerformanceTesting\mobile\bin\classes\com\mycompany\mygame\R$string.class \
+D:\JhonKkk\MyWork\JmonkeyProject\PerformanceTesting\mobile\bin\classes\com\mycompany\mygame\R.class \
+D:\JhonKkk\MyWork\JmonkeyProject\PerformanceTesting\mobile\bin\dexedLibs\jme3-plugins-3.2.4-stable-b1ebac32edeeee56c9d632b559da9505.jar \
+D:\JhonKkk\MyWork\JmonkeyProject\PerformanceTesting\mobile\bin\dexedLibs\j-ogg-all-1.0.0-f4c0e6e0c1169a2303ab2d818fb09767.jar \
+D:\JhonKkk\MyWork\JmonkeyProject\PerformanceTesting\mobile\bin\dexedLibs\jme3-networking-3.2.4-stable-1a2618bc1cbb3df10a91882f8ae2b72a.jar \
+D:\JhonKkk\MyWork\JmonkeyProject\PerformanceTesting\mobile\bin\dexedLibs\jme3-android-native-3.2.4-stable-fbbe08b455324f240e079eac15cfcaa6.jar \
+D:\JhonKkk\MyWork\JmonkeyProject\PerformanceTesting\mobile\bin\dexedLibs\jme3-effects-3.2.4-stable-943acc4fa7ad4d3914ca39394d9096e5.jar \
+D:\JhonKkk\MyWork\JmonkeyProject\PerformanceTesting\mobile\bin\dexedLibs\gson-2.8.1-7939002127c4c36ecf6882831fad23ec.jar \
+D:\JhonKkk\MyWork\JmonkeyProject\PerformanceTesting\mobile\bin\dexedLibs\jme3-bullet-3.2.4-stable-e0ab82578ca052e560f0bee10fbcf21a.jar \
+D:\JhonKkk\MyWork\JmonkeyProject\PerformanceTesting\mobile\bin\dexedLibs\jme3-jogg-3.2.4-stable-6fbc04682f8726afdc65db992b05e316.jar \
+D:\JhonKkk\MyWork\JmonkeyProject\PerformanceTesting\mobile\bin\dexedLibs\PerformanceTesting-1e742af8357c1026bcea142047681ece.jar \
+D:\JhonKkk\MyWork\JmonkeyProject\PerformanceTesting\mobile\bin\dexedLibs\jme3-core-3.2.4-stable-ba9495283e6d1ea7f8359cd242d90bd1.jar \
+D:\JhonKkk\MyWork\JmonkeyProject\PerformanceTesting\mobile\bin\dexedLibs\jme3-android-3.2.4-stable-71f95d7f9b83b7aaa2f386d65760a4d9.jar \
+D:\JhonKkk\MyWork\JmonkeyProject\PerformanceTesting\mobile\bin\dexedLibs\jme3-terrain-3.2.4-stable-b821d2774fe0c4efb7bb9ff090ad0c3e.jar \
+D:\JhonKkk\MyWork\JmonkeyProject\PerformanceTesting\mobile\bin\dexedLibs\jme3-bullet-native-android-3.2.4-stable-d7cad91f9c88ca2d79fb9e489672f43e.jar \

@@ -1,0 +1,17 @@
+Material MyMaterial : Common/MatDefs/Misc/UnshadedNodes.j3md {
+    MaterialParameters {
+        Color : 0.003392756 0.6398826 0.4736467 1.0
+        ColorMap : "Textures/barley.png"
+    }
+    AdditionalRenderState {
+      PointSprite On
+      FaceCull Back
+      AlphaTestFalloff 0.0
+      DepthWrite On
+      ColorWrite On
+      PolyOffset 0.0 0.0
+      DepthTest On
+      Blend Off
+      Wireframe Off
+    }
+}

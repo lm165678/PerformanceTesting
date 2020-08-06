@@ -1,0 +1,1 @@
+jarsigner -verbose -keystore myjks.jks -signedjar dist/PerformanceTesting-release-signed.apk dist/PerformanceTesting-release-unsigned.apk  165678

@@ -1,0 +1,17 @@
+Material MyMaterial : Common/MatDefs/Misc/UnshadedNodes.j3md {
+    MaterialParameters {
+        ColorMap : "Models/hltex002.png"
+        Color : 1 1 1 1
+    }
+    AdditionalRenderState {
+      PointSprite On
+      FaceCull Back
+      AlphaTestFalloff 0.0
+      DepthWrite On
+      ColorWrite On
+      PolyOffset 0.0 0.0
+      DepthTest On
+      Blend Off
+      Wireframe Off
+    }
+}

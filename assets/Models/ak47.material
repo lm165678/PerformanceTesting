@@ -1,0 +1,66 @@
+
+material hltex002
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture hltex002.tga
+			}
+		}
+
+	}
+
+}
+
+
+
+material hltex001
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture hltex001.tga
+			}
+		}
+
+	}
+
+}
+
+
+
+material hltex000
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture hltex000.tga
+			}
+		}
+
+	}
+
+}
+
+
